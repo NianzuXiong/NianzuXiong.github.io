@@ -1,1 +1,3 @@
-excerpt: 'DPhil works coming soon :)'
+---
+title: "DPhil works coming soon :)"
+---
