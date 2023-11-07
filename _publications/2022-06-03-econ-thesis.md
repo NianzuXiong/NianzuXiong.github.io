@@ -1,1 +1,1 @@
-DPhil works coming soon :)
+excerpt: 'DPhil works coming soon :)'
