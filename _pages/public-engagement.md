@@ -23,7 +23,7 @@ Held a one-on-one public dialogue with Sir Vince Cable, former UK Secretary of S
 ### *London Partners* — Hunan TV / Mango TV
 <span class="exp-stat">130 million+ views on Mango TV</span>
 
-Partnered with Hunan TV's programme *London Partners* to co-host a forum at Oxford on Chinese brands going global. I delivered the opening address and moderated the roundtable *Resonating Around the World: Chinese Brands Shining on the Global Stage*, with guests including Sir Miles Young, Warden of New College, Oxford, and Li Jiaqi.
+Partnered with Hunan TV's programme *London Partners* to co-host a forum at Oxford on Chinese brands going global. I delivered the opening address and moderated the roundtable *Resonating Around the World: Chinese Brands Shining on the Global Stage*, with guests including Miles Young, Warden of New College, Oxford, and Li Jiaqi.
 
 <div class="exp-gallery">
   <img src="{{ base_path }}/images/experience/london-partners-3.jpg" alt="Moderating the roundtable on Chinese brands going global">

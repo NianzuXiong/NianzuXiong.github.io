@@ -23,7 +23,7 @@ alt_url: /public-engagement/
 ### 湖南卫视 / 芒果 TV《伦敦合伙人》
 <span class="exp-stat">芒果 TV 播放量超过 1.3 亿次</span>
 
-与湖南卫视《伦敦合伙人》节目合作，在牛津联合举办“牛津共话国货出海”论坛。我致开幕辞，并主持圆桌讨论“万里同频：中国品牌与世界的共振时刻”，嘉宾包括牛津大学新学院院长 Sir Miles Young 和李佳琦。
+与湖南卫视《伦敦合伙人》节目合作，在牛津联合举办“牛津共话国货出海”论坛。我致开幕辞，并主持圆桌讨论“万里同频：中国品牌与世界的共振时刻”，嘉宾包括牛津大学新学院院长 Miles Young 和李佳琦。
 
 <div class="exp-gallery">
   <img src="{{ base_path }}/images/experience/london-partners-3.jpg" alt="主持中国品牌出海圆桌讨论">
