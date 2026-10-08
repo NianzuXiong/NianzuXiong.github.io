@@ -52,7 +52,7 @@ Hosted the 2026 GoldenKeys Conference on Sustainable Sciences and Industries, he
 </figure>
 
 ### CICC 2026 London Wealth Management Forum
-Co-organized the 2026 London Wealth Management Forum, *Bridging & Transcending*, with China International Capital Corporation (CICC).
+Helped organize the 2026 London Wealth Management Forum, *Bridging & Transcending*, hosted by China International Capital Corporation (CICC).
 
 <figure class="exp-figure">
   <img src="{{ base_path }}/images/experience/cicc-london-forum.jpg" alt="At the CICC 2026 London Wealth Management Forum">
