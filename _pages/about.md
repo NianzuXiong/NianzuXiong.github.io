@@ -16,7 +16,7 @@ Hi! I am Nianzu Xiong, and I have recently received my DPhil (PhD) in Economics 
 
 * **DPhil (PhD) in Economics**, University of Oxford, 2026 — Godfrey Tyler Scholarship (full doctoral scholarship)
 * **MPhil in Economics**, University of Cambridge, 2023
-* **B.A. (Hons) Mathematics & B.A. (Hons) Economics**, University of Pennsylvania, 2022 — *summa cum laude*, *Phi Beta Kappa* (one of six juniors inducted), Bernard Shanbaum Prize for Excellence in Economics (top graduating economics major)
+* **B.A. (Hons) Mathematics & B.A. (Hons) Economics**, University of Pennsylvania, 2022 — *summa cum laude*, *Phi Beta Kappa* (one of six juniors inducted), Bernard Shanbaum Prize for Excellence in Economics (top 1 graduating economics major)
 
 My current research interests are:
 
