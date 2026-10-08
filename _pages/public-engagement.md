@@ -1,18 +1,16 @@
 ---
 layout: archive
-title: "Experience"
-permalink: /experience/
+title: "Public Engagement & Leadership"
+permalink: /public-engagement/
 author_profile: true
 lang: en
-alt_url: /zh/experience/
+alt_url: /zh/public-engagement/
 redirect_from:
   - /research/
+  - /experience/
 ---
 
 {% include base_path %}
-
-Public Engagement & Leadership
-------
 
 ### Dialogue with Sir Vince Cable — Oxford China Forum
 Held a one-on-one public dialogue with Sir Vince Cable, former UK Secretary of State for Business, at the Oxford China Forum. The event was [covered by *China Daily*](https://www.chinadaily.com.cn/a/202603/13/WS69b4320ca310d6866eb3dbff.html).

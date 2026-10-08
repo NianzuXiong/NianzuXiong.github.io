@@ -1,9 +1,9 @@
 # English navigation
 main:
-  - title: "Experience"
-    url: /experience/
+  - title: "Public Engagement & Leadership"
+    url: /public-engagement/
 
 # Chinese navigation (used on pages with lang: zh)
 main_zh:
-  - title: "经历"
-    url: /zh/experience/
+  - title: "社会活动与领导力"
+    url: /zh/public-engagement/
