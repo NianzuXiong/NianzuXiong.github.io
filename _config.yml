@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Nianzu Xiong"
 title_separator          : "-"
 name                     : &name "Dr. Nianzu Xiong"
-description              : &description "Economist, Public Speaker, and Entrepreneur"
+description              : &description "Economist, Educator, Public Speaker, and Entrepreneur"
 url                      : https://NianzuXiong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NianzuXiong/NianzuXiong.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Nianzu Xiong"
   avatar           : "profile.jpg"
-  bio              : "Economist, Public Speaker, and Entrepreneur"
+  bio              : "Economist, Educator, Public Speaker, and Entrepreneur"
   location         : "Oxford, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
