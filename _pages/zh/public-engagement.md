@@ -1,17 +1,16 @@
 ---
 layout: archive
-title: "经历"
-permalink: /zh/experience/
+title: "社会活动与领导力"
+permalink: /zh/public-engagement/
+redirect_from:
+  - /zh/experience/
 author_profile: true
 author: zh
 lang: zh
-alt_url: /experience/
+alt_url: /public-engagement/
 ---
 
 {% include base_path %}
-
-社会活动与领导力
-------
 
 ### 对话英国前商务大臣文斯·凯布尔爵士 · 牛津中国论坛
 在牛津中国论坛上与英国前商务大臣文斯·凯布尔爵士（Sir Vince Cable）进行一对一公开对话，活动获[《中国日报》（*China Daily*）报道](https://www.chinadaily.com.cn/a/202603/13/WS69b4320ca310d6866eb3dbff.html)。
