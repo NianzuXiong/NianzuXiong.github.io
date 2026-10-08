@@ -22,7 +22,7 @@ My current research interests are:
 
 1. **Cryptocurrency Finance:** the optimality of token financing, token pricing in ICOs, and the regulation of real-world assets (RWAs) and stablecoins.
 2. **The Economics of AI:** new economic phenomena and mechanisms emerging in the age of AI.
-3. **The Chinese Economy:** capital markets and the global expansion of Chinese firms.
+3. **The Chinese Economy:** capital markets and Chinese firms going overseas.
 4. **Strategic Competition** in industrial organization, corporate finance, and political economy.
 
 I have worked as a Stipendiary Lecturer at Oxford. I have taught *Firms and Markets* to MBA students at Saïd Business School, *Economics* to MSc in Financial Economics students, and *Finance* and *Microeconomics* to undergraduates in PPE and Economics & Management. I also serve as an admissions interviewer for Oxford's PPE and E&M programmes.
