@@ -32,9 +32,9 @@ Partnered with Hunan TV's programme *London Partners* to co-host a forum at Oxfo
 </div>
 
 ### 2026 GoldenKeys Conference on Sustainable Sciences and Industries
-<span class="exp-stat">Featured on Guizhou Xinwen Lianbo · ~30 million viewers</span>
+<span class="exp-stat">Featured on Guizhou TV's evening news · ~30 million viewers</span>
 
-Hosted the 2026 GoldenKeys Conference on Sustainable Sciences and Industries, held in the Guizhou Hall of the Guizhou Hotel. The conference was featured on *Guizhou Xinwen Lianbo*, the province's flagship evening news programme.
+Hosted the 2026 GoldenKeys Conference on Sustainable Sciences and Industries, held in the Guizhou Hall of the Guizhou Hotel. The conference was featured on Guizhou TV's flagship evening news programme.
 
 <figure class="exp-figure">
   <img src="{{ base_path }}/images/experience/goldenkeys-guizhou.jpg" alt="Hosting the 2026 GoldenKeys Conference in Guizhou">
