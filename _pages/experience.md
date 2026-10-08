@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 
 Public Engagement & Leadership
-======
+------
 
 ### Dialogue with Sir Vince Cable — Oxford China Forum
 Held a one-on-one public dialogue with Sir Vince Cable, former UK Secretary of State for Business, at the Oxford China Forum. The event was [covered by *China Daily*](https://www.chinadaily.com.cn/a/202603/13/WS69b4320ca310d6866eb3dbff.html).
@@ -65,7 +65,7 @@ Hosted the London edition of the Harvard China Innovation and Investment Summit.
 * Honorary Advisor, Oxford China Forum
 
 Professional Experience
-======
+------
 
 * **Lecturer in Economics**, University of Oxford — Oct 2025 – present
 * **Research Fellow**, Honglve Consulting — Apr 2026 – present
@@ -78,7 +78,7 @@ Professional Experience
 * **Teaching Assistant, *Statistical Inference***, Wharton School, University of Pennsylvania — Sep 2021 – May 2022
 
 Education & Honours
-======
+------
 
 * **DPhil in Economics**, University of Oxford, 2026 — Godfrey Tyler Scholarship (full doctoral scholarship)
 * **MPhil in Economics**, University of Cambridge, 2023
