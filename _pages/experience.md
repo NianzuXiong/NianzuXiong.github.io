@@ -63,10 +63,3 @@ Hosted the London edition of the Harvard China Innovation and Investment Summit.
 * Delivered the opening address, *"How Does AI Think?"*, at the Oxford China Forum 2026 Summer Forum
 * Moderated a roundtable at the UK–China Business Elite Forum on Technology and Innovation, themed *"Global Vision, Cross-Sector Synergy: New Explorations in Asia–Europe Industrial Integration"*
 * Honorary Advisor, Oxford China Forum
-
-Education & Honours
-------
-
-* **DPhil in Economics**, University of Oxford, 2026 — Godfrey Tyler Scholarship (full doctoral scholarship)
-* **MPhil in Economics**, University of Cambridge, 2023
-* **B.A. (Hons) Mathematics & B.A. (Hons) Economics**, University of Pennsylvania, 2022 — *summa cum laude*, *Phi Beta Kappa* (one of six juniors inducted), Bernard Shanbaum Prize for Excellence in Economics (top graduating economics major)
