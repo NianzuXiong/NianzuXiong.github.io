@@ -1,18 +1,8 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# Sidebar profile used on Chinese pages (author: zh)
+zh:
+  name: "熊念祖 Nianzu Xiong"
+  avatar: "profile.jpg"
+  bio: "牛津大学经济学讲师"
+  location: "英国牛津"
+  email: "scro4824@ox.ac.uk"
+  github: "NianzuXiong"

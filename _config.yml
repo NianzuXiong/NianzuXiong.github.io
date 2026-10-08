@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nianzu Xiong"
 title_separator          : "-"
 name                     : &name "Nianzu Xiong"
-description              : &description "D.Phil. student at the University of Oxford"
+description              : &description "Lecturer in Economics, University of Oxford"
 url                      : https://NianzuXiong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NianzuXiong/NianzuXiong.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nianzu Xiong"
   avatar           : "profile.jpg"
-  bio              : "D.Phil. student at the University of Oxford"
+  bio              : "Lecturer in Economics, University of Oxford"
   location         : "Oxford, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "scro4824@ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
