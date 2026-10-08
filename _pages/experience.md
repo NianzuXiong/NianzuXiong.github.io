@@ -1,0 +1,85 @@
+---
+layout: archive
+title: "Experience"
+permalink: /experience/
+author_profile: true
+lang: en
+alt_url: /zh/experience/
+redirect_from:
+  - /research/
+---
+
+{% include base_path %}
+
+Public Engagement & Leadership
+======
+
+### Dialogue with Sir Vince Cable — Oxford China Forum
+Held a one-on-one public dialogue with Sir Vince Cable, former UK Secretary of State for Business, at the Oxford China Forum. The event was [covered by *China Daily*](https://www.chinadaily.com.cn/a/202603/13/WS69b4320ca310d6866eb3dbff.html).
+
+<figure class="exp-figure">
+  <img src="{{ base_path }}/images/experience/vince-cable-dialogue.jpg" alt="Nianzu Xiong in dialogue with Sir Vince Cable at the Oxford China Forum">
+  <figcaption>In conversation with Sir Vince Cable at the Oxford China Forum, Saïd Business School.</figcaption>
+</figure>
+
+### *London Partners* — Hunan TV / Mango TV
+<span class="exp-stat">130 million+ views on Mango TV</span>
+
+Partnered with Hunan TV's programme *London Partners* to co-host a forum at Oxford on Chinese brands going global. I delivered the opening address and moderated the roundtable *Resonating Around the World: Chinese Brands Shining on the Global Stage*, with guests including Sir Miles Young, Warden of New College, Oxford, and Li Jiaqi.
+
+<div class="exp-gallery">
+  <img src="{{ base_path }}/images/experience/london-partners-3.jpg" alt="Moderating the roundtable on Chinese brands going global">
+  <img src="{{ base_path }}/images/experience/london-partners-1.jpg" alt="Opening the forum on the London Partners programme">
+  <img src="{{ base_path }}/images/experience/london-partners-2.jpg" alt="London Partners episode feature on the Oxford forum">
+</div>
+
+### 2026 GoldenKeys Conference on Sustainable Sciences and Industries
+<span class="exp-stat">Featured on Guizhou Xinwen Lianbo · ~30 million viewers</span>
+
+Hosted the 2026 GoldenKeys Conference on Sustainable Sciences and Industries, held in the Guizhou Hall of the Guizhou Hotel. The conference was featured on *Guizhou Xinwen Lianbo*, the province's flagship evening news programme.
+
+<figure class="exp-figure">
+  <img src="{{ base_path }}/images/experience/goldenkeys-guizhou.jpg" alt="Hosting the 2026 GoldenKeys Conference in Guizhou">
+  <figcaption>Hosting the 2026 GoldenKeys Conference, Guizhou Hotel.</figcaption>
+</figure>
+
+### CICC 2026 London Wealth Management Forum
+Co-organized the 2026 London Wealth Management Forum, *Bridging & Transcending*, with China International Capital Corporation (CICC).
+
+<figure class="exp-figure">
+  <img src="{{ base_path }}/images/experience/cicc-london-forum.jpg" alt="At the CICC 2026 London Wealth Management Forum">
+  <figcaption>CICC 2026 London Wealth Management Forum.</figcaption>
+</figure>
+
+### Harvard China Innovation and Investment Summit
+Hosted the London edition of the Harvard China Innovation and Investment Summit.
+
+<figure class="exp-figure">
+  <img src="{{ base_path }}/images/experience/harvard-ciic.jpg" alt="Hosting the Harvard China Innovation and Investment Summit in London">
+  <figcaption>Hosting the Harvard China Innovation and Investment Summit, London.</figcaption>
+</figure>
+
+### Other engagements
+* Delivered the opening address, *"How Does AI Think?"*, at the Oxford China Forum 2026 Summer Forum
+* Moderated a roundtable at the UK–China Business Elite Forum on Technology and Innovation, themed *"Global Vision, Cross-Sector Synergy: New Explorations in Asia–Europe Industrial Integration"*
+* Honorary Advisor, Oxford China Forum
+
+Professional Experience
+======
+
+* **Lecturer in Economics**, University of Oxford — Oct 2025 – present
+* **Research Fellow**, Honglve Consulting — Apr 2026 – present
+* **Undergraduate Admissions Interviewer** (PPE and E&M), University of Oxford — Dec 2024 – present
+* **Visiting Scholar**, Department of Finance, London School of Economics — Oct 2025 – May 2026
+* **Economics Teaching Assistant**, MSc in Financial Economics, Saïd Business School — Jan 2025 – Apr 2026
+* **Lecturer, *Firms and Markets***, MBA Programme, Saïd Business School — Jan 2025 – Mar 2025
+* **Finance Tutor**, PPE, University of Oxford — Jan 2025 – Apr 2025
+* **Alumni Interviewer**, University of Pennsylvania — Nov 2023 – Jan 2024
+* **Teaching Assistant, *Statistical Inference***, Wharton School, University of Pennsylvania — Sep 2021 – May 2022
+
+Education & Honours
+======
+
+* **DPhil in Economics**, University of Oxford, 2026 — Godfrey Tyler Scholarship (full doctoral scholarship)
+* **MPhil in Economics**, University of Cambridge, 2023
+* **B.A. (Hons) Mathematics & B.A. (Hons) Economics**, University of Pennsylvania, 2022 — *summa cum laude*, *Phi Beta Kappa* (one of six juniors inducted), Bernard Shanbaum Prize for Excellence in Economics (top graduating economics major)

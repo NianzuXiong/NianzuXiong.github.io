@@ -39,3 +39,30 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Language switch and experience page */
+.masthead__menu-item.lang-switch a {
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  padding: 0.1em 0.6em;
+}
+.exp-figure {
+  margin: 1em 0 1.5em;
+  img { width: 100%; border-radius: 6px; }
+  figcaption { font-size: 0.75em; color: #7a8288; margin-top: 0.4em; }
+}
+.exp-gallery {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75em;
+  margin: 1em 0 1.5em;
+  img { width: 100%; border-radius: 6px; display: block; }
+}
+.exp-stat {
+  display: inline-block;
+  font-size: 0.8em;
+  font-weight: bold;
+  background: #f3f5f7;
+  border-left: 3px solid #002147;
+  padding: 0.2em 0.6em;
+  margin-bottom: 0.5em;
+}

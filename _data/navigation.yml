@@ -1,22 +1,9 @@
-# main links links
+# English navigation
 main:
-  - title: "Research"
-    url: /research/
+  - title: "Experience"
+    url: /experience/
 
-  # - title: "Talks"
-  #   url: /talks/
-
-  # - title: "Teaching"
-  #   url: /teaching/
-
-  # - title: "Portfolio"
-  #   url: /portfolio/
-
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-
-  # - title: "CV"
-  #   url: /cv/
-
-  # - title: "Guide"
-  #   url: /markdown/
+# Chinese navigation (used on pages with lang: zh)
+main_zh:
+  - title: "经历"
+    url: /zh/experience/
