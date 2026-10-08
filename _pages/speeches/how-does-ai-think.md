@@ -19,7 +19,7 @@ alt_url: /zh/speeches/how-does-ai-think/
 English
 ------
 
-Distinguished guests and teachers, Chair Jintian, and friends from Oxford,
+Distinguished guests and teachers, President Jintian, and friends from Oxford,
 
 It is a great honour to deliver the opening remarks for the Oxford China Forum 2026 Summer Forum, and an honour to take on a topic that is simple, yet slightly unsettling: *How does AI think?*
 
