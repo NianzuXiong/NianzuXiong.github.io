@@ -64,19 +64,6 @@ Hosted the London edition of the Harvard China Innovation and Investment Summit.
 * Moderated a roundtable at the UK–China Business Elite Forum on Technology and Innovation, themed *"Global Vision, Cross-Sector Synergy: New Explorations in Asia–Europe Industrial Integration"*
 * Honorary Advisor, Oxford China Forum
 
-Professional Experience
-------
-
-* **Lecturer in Economics**, University of Oxford — Oct 2025 – present
-* **Research Fellow**, Honglve Consulting — Apr 2026 – present
-* **Undergraduate Admissions Interviewer** (PPE and E&M), University of Oxford — Dec 2024 – present
-* **Visiting Scholar**, Department of Finance, London School of Economics — Oct 2025 – May 2026
-* **Economics Teaching Assistant**, MSc in Financial Economics, Saïd Business School — Jan 2025 – Apr 2026
-* **Lecturer, *Firms and Markets***, MBA Programme, Saïd Business School — Jan 2025 – Mar 2025
-* **Finance Tutor**, PPE, University of Oxford — Jan 2025 – Apr 2025
-* **Alumni Interviewer**, University of Pennsylvania — Nov 2023 – Jan 2024
-* **Teaching Assistant, *Statistical Inference***, Wharton School, University of Pennsylvania — Sep 2021 – May 2022
-
 Education & Honours
 ------
 

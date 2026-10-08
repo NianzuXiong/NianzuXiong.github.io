@@ -10,16 +10,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Nianzu Xiong, and I have recently received my DPhil in Economics from the University of Oxford, where I now work as a Stipendiary Lecturer in Economics.
+Hi! I am Nianzu Xiong, and I have recently received my DPhil in Economics from the University of Oxford.
 
-Before coming to Oxford, I double majored in Mathematics and Economics at the University of Pennsylvania, graduating *summa cum laude* and *Phi Beta Kappa*, and as Penn's top economics major (Bernard Shanbaum Prize for Excellence in Economics). I then received my MPhil in Economics from the University of Cambridge.
+Before coming to Oxford, I double majored in Mathematics and Economics at the University of Pennsylvania, graduating *summa cum laude* and *Phi Beta Kappa*, and as Penn's top 1 economics major (Bernard Shanbaum Prize for Excellence in Economics). I then received my MPhil in Economics from the University of Cambridge.
 
-At Oxford, my research has focused on game theory, corporate finance, political economy, and cryptocurrency. I have analysed how firms compete and cooperate under complex shareholding structures, how buyers and sellers manipulate markets, and how candidates compete strategically in elections. My current interests are:
+My current research interests are:
 
-1. **Cryptocurrency finance:** the optimality of token financing, token pricing in ICOs, and the regulation of real-world assets (RWAs) and stablecoins.
-2. **The economics of AI:** new economic phenomena and mechanisms emerging in the age of AI.
-3. **Applied game theory:** strategic interaction in industrial organization, corporate finance, and political economy.
+1. **Cryptocurrency Finance:** the optimality of token financing, token pricing in ICOs, and the regulation of real-world assets (RWAs) and stablecoins.
+2. **The Economics of AI:** new economic phenomena and mechanisms emerging in the age of AI.
+3. **Strategic competition** in industrial organization, corporate finance, and political economy.
 
-I have taught *Firms and Markets* to MBA students at Saïd Business School, Economics to MSc in Financial Economics students, and Finance and Microeconomics to undergraduates in PPE and Economics & Management. I also serve as an admissions interviewer for Oxford's PPE and E&M programmes.
+I have worked as a Stipendiary Lecturer at Oxford. I have taught *Firms and Markets* to MBA students at Saïd Business School, Economics to MSc in Financial Economics students, and Finance and Microeconomics to undergraduates in PPE and Economics & Management. I also serve as an admissions interviewer for Oxford's PPE and E&M programmes.
 
-Beyond academia, I regularly host and speak at forums connecting the UK and China, from a dialogue with Sir Vince Cable to a Mango TV programme watched over 130 million times. See [Experience](/experience/) for more.
+Beyond academia, I regularly host and speak at forums and summits connecting the UK and China, from a one-to-one dialogue with Sir Vince Cable that appeared on *China Daily* to hosting a forum for a Hunan TV reality show that has been watched over 130 million times. See [Experience](/experience/) for more.
