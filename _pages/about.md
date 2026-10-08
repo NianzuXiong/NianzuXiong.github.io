@@ -21,7 +21,7 @@ Hi! I am Nianzu Xiong, and I have recently received my DPhil (PhD) in Economics 
 My current research interests are:
 
 1. **Cryptocurrency Finance:** the optimality of token financing, token pricing in ICOs, and the regulation of real-world assets (RWAs) and stablecoins.
-2. **The Economics of AI:** new economic phenomena and mechanisms emerging in the age of AI.
+2. **The Economics of AI:** new economic phenomena and mechanisms emerging in the age of AI. See my recent speech at the Oxford China Forum, [*"How Does AI Think?"*](/speeches/how-does-ai-think/)
 3. **The Chinese Economy:** capital markets and Chinese firms going overseas.
 4. **Game Theory:** strategic competition in industrial organization, corporate finance, and political economy.
 
