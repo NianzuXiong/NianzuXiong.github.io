@@ -25,7 +25,7 @@ My current research interests are:
 3. **The Chinese Economy:** capital markets and Chinese firms going overseas.
 4. **Game Theory:** strategic competition in industrial organization, corporate finance, and political economy.
 
-I have worked as a Stipendiary Lecturer at Oxford. I have taught *Firms and Markets* to MBA students at Saïd Business School, *Economics* to MSc in Financial Economics students, and *Finance* and *Microeconomics* to undergraduates in PPE and Economics & Management. I also serve as an admissions interviewer for Oxford's PPE and E&M programmes, and as a Research Fellow at Beijing HongLve Consulting.
+I have worked as a Stipendiary Lecturer at Oxford. I have taught *Firms and Markets* to MBA students at Saïd Business School, *Economics* to MSc in Financial Economics students, and *Finance* and *Microeconomics* to undergraduates in PPE and Economics & Management. I have also served as an admissions interviewer for Oxford's PPE and E&M programmes. I am currently a Research Fellow at Beijing HongLve Consulting.
 
 Beyond academia, I regularly host and speak at forums and summits connecting the UK and China, from a one-to-one dialogue with Sir Vince Cable that appeared on *China Daily* to hosting a forum for a Hunan TV reality show that has been watched over 130 million times. See [Public Engagement & Leadership](/public-engagement/) for more.
 
