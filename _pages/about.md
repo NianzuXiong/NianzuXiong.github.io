@@ -12,7 +12,11 @@ redirect_from:
 
 Hi! I am Nianzu Xiong, and I have recently received my DPhil in Economics from the University of Oxford.
 
-Before coming to Oxford, I double majored in Mathematics and Economics at the University of Pennsylvania, graduating *summa cum laude* and *Phi Beta Kappa*, and as Penn's top 1 economics major (Bernard Shanbaum Prize for Excellence in Economics). I then received my MPhil in Economics from the University of Cambridge.
+**Education & Honours**
+
+* **DPhil in Economics**, University of Oxford, 2026 — Godfrey Tyler Scholarship (full doctoral scholarship)
+* **MPhil in Economics**, University of Cambridge, 2023
+* **B.A. (Hons) Mathematics & B.A. (Hons) Economics**, University of Pennsylvania, 2022 — *summa cum laude*, *Phi Beta Kappa* (one of six juniors inducted), Bernard Shanbaum Prize for Excellence in Economics (top graduating economics major)
 
 My current research interests are:
 
@@ -23,10 +27,3 @@ My current research interests are:
 I have worked as a Stipendiary Lecturer at Oxford. I have taught *Firms and Markets* to MBA students at Saïd Business School, Economics to MSc in Financial Economics students, and Finance and Microeconomics to undergraduates in PPE and Economics & Management. I also serve as an admissions interviewer for Oxford's PPE and E&M programmes.
 
 Beyond academia, I regularly host and speak at forums and summits connecting the UK and China, from a one-to-one dialogue with Sir Vince Cable that appeared on *China Daily* to hosting a forum for a Hunan TV reality show that has been watched over 130 million times. See [Experience](/experience/) for more.
-
-Education & Honours
-------
-
-* **DPhil in Economics**, University of Oxford, 2026 — Godfrey Tyler Scholarship (full doctoral scholarship)
-* **MPhil in Economics**, University of Cambridge, 2023
-* **B.A. (Hons) Mathematics & B.A. (Hons) Economics**, University of Pennsylvania, 2022 — *summa cum laude*, *Phi Beta Kappa* (one of six juniors inducted), Bernard Shanbaum Prize for Excellence in Economics (top graduating economics major)
