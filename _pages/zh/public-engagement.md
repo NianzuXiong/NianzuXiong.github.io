@@ -52,7 +52,7 @@ alt_url: /public-engagement/
 </figure>
 
 ### 中金公司 2026 伦敦财富管理大会
-与中国国际金融股份有限公司（中金公司）联合举办 2026 伦敦财富管理大会，主题为 *Bridging & Transcending*。
+协助筹办中国国际金融股份有限公司（中金公司）2026 伦敦财富管理大会，主题为 *Bridging & Transcending*。
 
 <figure class="exp-figure">
   <img src="{{ base_path }}/images/experience/cicc-london-forum.jpg" alt="中金公司 2026 伦敦财富管理大会">
