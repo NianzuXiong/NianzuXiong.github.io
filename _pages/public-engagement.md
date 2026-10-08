@@ -20,6 +20,16 @@ Held a one-on-one public dialogue with Sir Vince Cable, former UK Secretary of S
   <figcaption>In conversation with Sir Vince Cable at the Oxford China Forum, Saïd Business School.</figcaption>
 </figure>
 
+### "How Does AI Think?" — Oxford China Forum 2026 Summer Forum
+As Honorary Advisor of the Oxford China Forum, delivered the opening address at its 2026 Summer Forum in Chongqing, on how AI "thinks" and how it reshapes judgement inside organisations.
+
+[Read the full speech (English & Chinese) →](/speeches/how-does-ai-think/)
+
+<figure class="exp-figure">
+  <img src="{{ base_path }}/images/experience/ocf-summer-forum-2026.jpg" alt="Delivering the opening address at the Oxford China Forum 2026 Summer Forum">
+  <figcaption>Opening address at the Oxford China Forum 2026 Summer Forum, Chongqing.</figcaption>
+</figure>
+
 ### *London Partners* — Hunan TV / Mango TV
 <span class="exp-stat">130 million+ views on Mango TV</span>
 
@@ -58,6 +68,5 @@ Hosted the London edition of the Harvard China Innovation and Investment Summit.
 </figure>
 
 ### Other engagements
-* Delivered the opening address, *"How Does AI Think?"*, at the Oxford China Forum 2026 Summer Forum
 * Moderated a roundtable at the UK–China Business Elite Forum on Technology and Innovation, themed *"Global Vision, Cross-Sector Synergy: New Explorations in Asia–Europe Industrial Integration"*
 * Honorary Advisor, Oxford China Forum

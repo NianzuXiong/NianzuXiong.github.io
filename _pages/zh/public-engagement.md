@@ -20,6 +20,16 @@ alt_url: /public-engagement/
   <figcaption>在牛津大学赛德商学院举行的牛津中国论坛上与文斯·凯布尔爵士对话。</figcaption>
 </figure>
 
+### 《AI 如何思考？》· 牛津中国论坛 2026 夏季论坛
+以牛津中国论坛荣誉顾问身份，在重庆举行的 2026 夏季论坛上致开幕辞，探讨 AI 如何“思考”，以及它如何重塑组织中的判断权。
+
+[阅读致辞全文（中英双语）→](/zh/speeches/how-does-ai-think/)
+
+<figure class="exp-figure">
+  <img src="{{ base_path }}/images/experience/ocf-summer-forum-2026.jpg" alt="在牛津中国论坛 2026 夏季论坛致开幕辞">
+  <figcaption>在牛津中国论坛 2026 夏季论坛致开幕辞，重庆。</figcaption>
+</figure>
+
 ### 湖南卫视 / 芒果 TV《伦敦合伙人》
 <span class="exp-stat">芒果 TV 播放量超过 1.3 亿次</span>
 
@@ -58,6 +68,5 @@ alt_url: /public-engagement/
 </figure>
 
 ### 其他活动
-* 在牛津中国论坛 2026 夏季论坛上发表开幕演讲《AI 如何思考？》
 * 在中英商业精英科技创新论坛上主持圆桌讨论，主题为“全球视野，跨界协同：亚欧产业融合新探索”
 * 牛津中国论坛荣誉顾问
