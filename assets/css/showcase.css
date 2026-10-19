@@ -121,7 +121,7 @@ a { color: inherit; }
 .hero__portrait { display: flex; flex-direction: column; width: min(100%, 420px); justify-self: start; }
 .hero__photo { overflow: hidden; border-radius: 2px; }
 .hero__photo img { width: 100%; aspect-ratio: 625 / 781; object-fit: cover; }
-.hero__sign { color: #161616; margin-top: 1.1rem; align-self: flex-end; width: 78%; }
+.hero__sign { color: #161616; margin-top: 1.1rem; align-self: center; width: 78%; }
 .hero__sign .callig { display: block; width: 100%; height: auto; }
 
 @media (min-width: 900px) {
