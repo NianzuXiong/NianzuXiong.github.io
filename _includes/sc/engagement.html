@@ -1,0 +1,34 @@
+{% assign lang = page.lang | default: "en" %}{% assign d = site.data.engagements %}{% assign t = site.data.i18n[lang] %}
+<header class="pagehead">
+  <h1>{{ page.title }}</h1>
+  <p class="pagehead__lead">{{ page.lead }}</p>
+</header>
+
+{% assign n = 0 %}{% for e in d.events %}
+{% assign k_title = "title_" | append: lang %}{% assign k_place = "place_" | append: lang %}{% assign k_reach = "reach_" | append: lang %}{% assign k_body = "body_" | append: lang %}{% assign k_link = "link_" | append: lang %}{% assign k_alt = "alt_" | append: lang %}
+{% assign title = e[k_title] %}{% assign place = e[k_place] %}{% assign reach = e[k_reach] %}{% assign body = e[k_body] %}{% assign link_label = e[k_link] %}{% if lang == "zh" and e.link_url_zh %}{% assign link_url = e.link_url_zh %}{% else %}{% assign link_url = e.link_url %}{% endif %}
+{% if e.images.size == 1 %}{% assign n = n | plus: 1 %}{% endif %}{% assign side = n | modulo: 2 %}
+<article class="event{% if e.images.size > 1 %} event--gallery{% elsif side == 0 %} event--flip{% endif %}" id="{{ e.id }}">
+  <div class="event__media">
+    {% for im in e.images %}{% assign alt = im[k_alt] %}
+    <button type="button" class="shot reveal" data-full="{{ im.src }}" data-cap="{{ alt | escape }}" aria-label="{{ t.enlarge }}: {{ alt | escape }}">
+      <img src="{{ im.src }}" alt="{{ alt | escape }}" loading="lazy">
+    </button>
+    {% endfor %}
+  </div>
+  <div class="event__text">
+    <h2 class="event__title">{{ title }}</h2>
+    <p class="event__place">{{ place }}</p>
+    {% if reach and reach != "" %}<p class="event__reach">{{ reach }}</p>{% endif %}
+    <div class="event__body">{{ body | markdownify }}</div>
+    {% if link_url %}<p><a class="link" href="{{ link_url }}"{% if link_url contains "http" %} target="_blank" rel="noopener"{% endif %}>{{ link_label }}</a></p>{% endif %}
+  </div>
+</article>
+{% endfor %}
+
+<section class="others">
+  {% assign k_others = "others_title_" | append: lang %}<h2>{{ d[k_others] }}</h2>
+  <ul>
+    {% for o in d.others %}<li>{{ o[lang] | markdownify | remove: "<p>" | remove: "</p>" }}</li>{% endfor %}
+  </ul>
+</section>

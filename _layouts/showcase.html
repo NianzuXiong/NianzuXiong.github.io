@@ -1,0 +1,58 @@
+{% assign lang = page.lang | default: "en" %}{% assign t = site.data.i18n[lang] %}{% if lang == "zh" %}{% assign home_url = "/zh/" %}{% assign eng_url = "/zh/public-engagement/" %}{% else %}{% assign home_url = "/" %}{% assign eng_url = "/public-engagement/" %}{% endif %}<!doctype html>
+<html lang="{% if lang == 'zh' %}zh-CN{% else %}en{% endif %}" class="no-js">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.permalink == home_url %}{{ t.site_name }}{% else %}{{ page.title }} | {{ t.site_name }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: t.description | strip_html | escape }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="alternate" hreflang="{% if lang == 'zh' %}en{% else %}zh-CN{% endif %}" href="{{ site.url }}{{ page.alt_url }}">
+  <link rel="alternate" hreflang="{% if lang == 'zh' %}zh-CN{% else %}en{% endif %}" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.title | escape }} | {{ t.site_name }}">
+  <meta property="og:description" content="{{ page.excerpt | default: t.description | strip_html | escape }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}{{ page.og_image | default: '/images/portrait.jpg' }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#14243b">
+  <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-180x180.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- Fonts load without blocking the page, so it still renders quickly where Google Fonts is slow or unreachable -->
+  <link rel="stylesheet" media="print" onload="this.media='all'" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Noto+Serif+SC:wght@400;600;900&display=swap">
+  <link rel="stylesheet" href="/assets/css/showcase.css?v={{ site.time | date: '%s' }}">
+  <script>document.documentElement.className = 'js';</script>
+</head>
+<body class="sc sc--{{ page.template | default: 'page' }} lang-{{ lang }}">
+  <a class="skip" href="#main">{{ t.skip }}</a>
+  <header class="bar" id="bar">
+    <div class="bar__inner">
+      <a class="bar__name" href="{{ home_url }}">{{ t.site_name }}</a>
+      <nav class="bar__nav" aria-label="Main">
+        <a href="{{ home_url }}"{% if page.template == "home" %} aria-current="page"{% endif %}>{{ t.nav_home }}</a>
+        <a href="{{ eng_url }}"{% if page.template == "engagement" %} aria-current="page"{% endif %}>{{ t.nav_engagement }}</a>
+        <a class="bar__lang" href="{{ page.alt_url }}" hreflang="{% if lang == 'zh' %}en{% else %}zh-CN{% endif %}" title="{{ t.switch_title }}">{{ t.switch_label }}</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+{{ content }}
+  </main>
+
+  <footer class="foot">
+    <div class="foot__inner">
+      <span>© {{ site.time | date: "%Y" }} {{ t.footer }}</span>
+      <a href="mailto:xiong.nianzu@outlook.com">xiong.nianzu@outlook.com</a>
+    </div>
+  </footer>
+
+  <dialog class="lightbox" id="lightbox" aria-label="{{ t.enlarge }}">
+    <form method="dialog"><button class="lightbox__close" aria-label="{{ t.close }}">×</button></form>
+    <img alt="">
+    <p class="lightbox__cap"></p>
+  </dialog>
+  <script src="/assets/js/showcase.js?v={{ site.time | date: '%s' }}" defer></script>
+</body>
+</html>

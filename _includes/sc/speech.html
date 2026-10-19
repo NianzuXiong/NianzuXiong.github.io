@@ -1,0 +1,26 @@
+{% assign lang = page.lang | default: "en" %}{% assign s = site.data.speech_ai %}
+<article class="speech">
+  <header class="speech__head">
+    <h1>{{ page.title }}</h1>
+    <p class="speech__context">{{ page.context }}</p>
+  </header>
+  <figure class="speech__photo">
+    <img src="/images/experience/ocf-summer-forum-2026.jpg" alt="{{ page.photo_alt }}">
+  </figure>
+
+  <div class="speech__switch" role="group" aria-label="{% if lang == 'zh' %}阅读语言{% else %}Reading language{% endif %}">
+    <button type="button" data-show="en"{% if lang == "en" %} aria-pressed="true"{% else %} aria-pressed="false"{% endif %}>English</button>
+    <button type="button" data-show="zh"{% if lang == "zh" %} aria-pressed="true"{% else %} aria-pressed="false"{% endif %}>中文原文</button>
+  </div>
+
+  <div class="parallel" data-show="{{ lang }}">
+    <p class="parallel__label" lang="en">English translation</p>
+    <p class="parallel__label" lang="zh-CN">中文原文</p>
+    {% for p in s.paragraphs %}
+    <p class="parallel__en" lang="en">{{ p.en | markdownify | remove: "<p>" | remove: "</p>" | strip }}</p>
+    <p class="parallel__zh" lang="zh-CN">{{ p.zh }}</p>
+    {% endfor %}
+  </div>
+
+  <p class="speech__back"><a class="link" href="{% if lang == 'zh' %}/zh/public-engagement/{% else %}/public-engagement/{% endif %}">{% if lang == 'zh' %}返回社会活动与领导力{% else %}Back to Public Engagement & Leadership{% endif %}</a></p>
+</article>
