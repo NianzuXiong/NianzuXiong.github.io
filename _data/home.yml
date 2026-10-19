@@ -2,7 +2,7 @@
 en:
   name: "Dr. Nianzu Xiong"
   roles: "Economist, Educator, Public Speaker, and Entrepreneur"
-  intro: "I hold a DPhil (PhD) in Economics from the University of Oxford. I work on Cryptocurrency Finance, the Economics of AI, and the Chinese Economy, and I speak at forums connecting the UK and China."
+  intro: "I hold a PhD in Economics from the University of Oxford. I work on Cryptocurrency Finance, the Economics of AI, and the Chinese Economy, and I speak at forums connecting the UK and China."
   cta_email: "Email me"
   cta_engagement: "See public engagement"
   interests_title: "Research interests"
@@ -17,7 +17,7 @@ en:
       body: "Strategic competition in industrial organization, corporate finance, and political economy."
   education_title: "Education & honours"
   education:
-    - degree: "DPhil (PhD) in Economics"
+    - degree: "PhD in Economics"
       school: "University of Oxford"
       year: "2026"
       note: "Godfrey Tyler Scholarship (full doctoral scholarship)"
@@ -54,7 +54,7 @@ zh:
       body: "产业组织、公司金融和政治经济学中的战略竞争。"
   education_title: "教育背景与荣誉"
   education:
-    - degree: "经济学博士（DPhil (PhD)）"
+    - degree: "经济学博士"
       school: "牛津大学"
       year: "2026"
       note: "Godfrey Tyler 全额博士奖学金"
