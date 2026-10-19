@@ -1,6 +1,10 @@
 /* Dr. Nianzu Xiong — site design
-   Concept: two scripts, one voice. Oxford ink for structure, cinnabar (the colour
-   of a Chinese seal) used only for the name column and audience figures. */
+   Concept: two scripts, one voice. Oxford ink for structure, a brush-written Chinese
+   name beneath the portrait, cinnabar reserved for small accents and audience figures. */
+
+/* Newsreader is self-hosted (Latin subset, SIL Open Font License) so it also loads in mainland China */
+@font-face { font-family: "Newsreader"; src: url("/assets/fonts/newsreader.woff") format("woff"); font-weight: 200 800; font-style: normal; font-display: swap; }
+@font-face { font-family: "Newsreader"; src: url("/assets/fonts/newsreader-italic.woff") format("woff"); font-weight: 200 800; font-style: italic; font-display: swap; }
 
 :root {
   --paper: #f4f5f2;
@@ -97,8 +101,9 @@ a { color: inherit; }
   display: grid; grid-template-columns: 1fr; gap: 2.5rem; align-items: center;
 }
 .hero__name {
-  font-size: clamp(2.9rem, 7.2vw, 5.9rem);
-  line-height: 1;
+  font-size: clamp(2.1rem, 6.4vw, 4.6rem);
+  line-height: 1.05;
+  white-space: nowrap;
   letter-spacing: -.02em;
   font-weight: 500;
 }
@@ -113,41 +118,19 @@ a { color: inherit; }
 .hero__intro { margin: 1.5rem 0 2rem; max-width: 34em; color: var(--text); }
 .hero__actions { display: flex; flex-wrap: wrap; gap: .75rem; margin: 0; }
 
-.hero__portrait { display: flex; align-items: flex-start; gap: clamp(.75rem, 2vw, 1.5rem); justify-self: start; }
-.hero__seal {
-  margin: 0;
-  display: flex; flex-direction: column;
-  font-family: var(--cjk);
-  font-weight: 900;
-  color: var(--seal);
-  font-size: clamp(3.2rem, 8vw, 5.6rem);
-  line-height: 1;
-  letter-spacing: .1em;
-  flex: 0 0 auto;
-}
-.hero__seal span { display: block; }
-.hero__seal--latin {
-  display: block;
-  writing-mode: vertical-rl;
-  font-family: var(--serif);
-  font-weight: 500;
-  font-style: italic;
-  font-size: clamp(2.4rem, 5.5vw, 4rem);
-  letter-spacing: 0;
-}
-.hero__seal--latin span { display: inline-block; }
-.hero__seal--latin span + span { margin-top: .3em; }
-.hero__photo { flex: 0 0 auto; width: min(64vw, 420px); overflow: hidden; border-radius: 2px; }
+.hero__portrait { display: flex; flex-direction: column; width: min(100%, 420px); justify-self: start; }
+.hero__photo { overflow: hidden; border-radius: 2px; }
 .hero__photo img { width: 100%; aspect-ratio: 625 / 781; object-fit: cover; }
+.hero__sign { color: #161616; margin-top: 1.1rem; align-self: flex-end; width: 78%; }
+.hero__sign .callig { display: block; width: 100%; height: auto; }
 
 @media (min-width: 900px) {
   .hero { grid-template-columns: 7fr 5fr; gap: 3rem; }
-  .hero__portrait { justify-self: end; }
-  .hero__photo { width: clamp(280px, 28vw, 380px); }
+  .hero__portrait { justify-self: end; width: clamp(280px, 28vw, 380px); }
 }
 
 /* Hero entrance: the one orchestrated moment on load */
-.js .hero__seal span, .js .hero__name, .js .hero__roles, .js .hero__intro, .js .hero__actions {
+.js .hero__name, .js .hero__roles, .js .hero__intro, .js .hero__actions {
   opacity: 0; transform: translateY(.35em);
   animation: rise .9s var(--ease-out) forwards;
 }
@@ -155,9 +138,8 @@ a { color: inherit; }
 .js .hero__roles { animation-delay: .2s; }
 .js .hero__intro { animation-delay: .32s; }
 .js .hero__actions { animation-delay: .44s; }
-.js .hero__seal span:nth-child(1) { animation-delay: .55s; }
-.js .hero__seal span:nth-child(2) { animation-delay: .75s; }
-.js .hero__seal span:nth-child(3) { animation-delay: .95s; }
+.js .hero__sign { clip-path: inset(0 100% 0 0); animation: write 1.6s cubic-bezier(.45, 0, .25, 1) 1.1s forwards; }
+@keyframes write { to { clip-path: inset(0 0 0 0); } }
 .js .hero__photo img { clip-path: inset(100% 0 0 0); transform: scale(1.12); animation: unveil 1.4s var(--ease) .25s forwards; }
 @keyframes rise { to { opacity: 1; transform: none; } }
 @keyframes unveil { to { clip-path: inset(0 0 0 0); transform: scale(1); } }
@@ -329,10 +311,17 @@ a { color: inherit; }
 /* ---------- Reduced motion ---------- */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
-  .js .hero__seal span, .js .hero__name, .js .hero__roles, .js .hero__intro, .js .hero__actions,
+  .js .hero__name, .js .hero__roles, .js .hero__intro, .js .hero__actions,
   .js .event__text { opacity: 1; transform: none; }
-  .js .hero__photo img, .js .reveal img { clip-path: none; transform: none; }
+  .js .hero__photo img, .js .reveal img, .js .hero__sign { clip-path: none; transform: none; }
 }
 
 /* Keep tall photos from dominating an entry */
 .event:not(.event--gallery) .shot img { max-height: 78vh; object-fit: cover; object-position: 50% 30%; }
+
+/* Phones: language switch sits top-right beside the name */
+@media (max-width: 640px) {
+  .bar__inner { position: relative; }
+  .bar__name { padding-right: 4rem; }
+  .bar__nav .bar__lang { position: absolute; right: var(--gut); top: .85rem; }
+}
