@@ -91,8 +91,9 @@ a { color: inherit; }
 .bar__nav a { color: var(--slate); text-decoration: none; padding: .2em 0; border-bottom: 1px solid transparent; }
 .bar__nav a:hover { color: var(--ink); }
 .bar__nav a[aria-current="page"] { color: var(--ink); border-bottom-color: var(--seal); }
-.bar__nav .bar__lang { color: var(--ink); border: 1px solid var(--rule); border-radius: 2px; padding: .1em .55em; }
-.bar__nav .bar__lang:hover { border-color: var(--ink); }
+.bar__lang { color: var(--ink); text-decoration: none; font-size: 1rem; border: 1px solid var(--rule); border-radius: 2px; padding: .1em .55em; }
+.bar__lang:hover { border-color: var(--ink); }
+.bar__nav { margin-left: auto; }
 
 /* ---------- Homepage hero ---------- */
 .hero {
@@ -319,9 +320,9 @@ a { color: inherit; }
 /* Keep tall photos from dominating an entry */
 .event:not(.event--gallery) .shot img { max-height: 78vh; object-fit: cover; object-position: 50% 30%; }
 
-/* Phones: language switch sits top-right beside the name */
+/* Phones: name and language switch on the first row, page links on the second */
 @media (max-width: 640px) {
-  .bar__inner { position: relative; }
-  .bar__name { padding-right: 4rem; }
-  .bar__nav .bar__lang { position: absolute; right: var(--gut); top: .85rem; }
+  .bar__inner { display: grid; grid-template-columns: 1fr auto; align-items: center; row-gap: .35rem; }
+  .bar__nav { grid-column: 1 / -1; grid-row: 2; margin-left: 0; }
+  .bar__lang { grid-column: 2; grid-row: 1; }
 }

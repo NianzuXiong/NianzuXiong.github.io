@@ -33,8 +33,8 @@
       <nav class="bar__nav" aria-label="Main">
         <a href="{{ home_url }}"{% if page.template == "home" %} aria-current="page"{% endif %}>{{ t.nav_home }}</a>
         <a href="{{ eng_url }}"{% if page.template == "engagement" %} aria-current="page"{% endif %}>{{ t.nav_engagement }}</a>
-        <a class="bar__lang" href="{{ page.alt_url }}" hreflang="{% if lang == 'zh' %}en{% else %}zh-CN{% endif %}" title="{{ t.switch_title }}">{{ t.switch_label }}</a>
       </nav>
+      <a class="bar__lang" href="{{ page.alt_url }}" hreflang="{% if lang == 'zh' %}en{% else %}zh-CN{% endif %}" title="{{ t.switch_title }}">{{ t.switch_label }}</a>
     </div>
   </header>
 
