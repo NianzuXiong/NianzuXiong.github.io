@@ -10,7 +10,7 @@
     </p>
   </div>
   <div class="hero__portrait">
-    <div class="hero__photo"><img src="/images/portrait.jpg" width="625" height="781" alt="{% if lang == 'zh' %}熊念祖在牛津大学赛德商学院的论坛上发言{% else %}Nianzu Xiong speaking at a forum at Saïd Business School, Oxford{% endif %}"></div>
+    <div class="hero__photo"><picture><source type="image/webp" srcset="/images/portrait.webp"><img src="/images/portrait.jpg" width="625" height="781" fetchpriority="high" alt="{% if lang == 'zh' %}熊念祖在牛津大学赛德商学院的论坛上发言{% else %}Nianzu Xiong speaking at a forum at Saïd Business School, Oxford{% endif %}"></picture></div>
     <div class="hero__sign">{% include sc/callig-name.svg %}</div>
   </div>
 </section>
@@ -55,9 +55,9 @@
   <div class="block__body">
     <div class="prose">{{ h.beyond | markdownify }}</div>
     <a class="strip" href="{{ eng_url }}" aria-label="{{ h.beyond_link }}">
-      <img src="/images/experience/vince-cable-dialogue.jpg" alt="" loading="lazy">
-      <img src="/images/experience/london-partners-3.jpg" alt="" loading="lazy">
-      <img src="/images/experience/goldenkeys-guizhou.jpg" alt="" loading="lazy">
+      <picture><source type="image/webp" srcset="/images/experience/vince-cable-dialogue-480.webp"><img src="/images/experience/vince-cable-dialogue-480.jpg" width="480" height="360" alt="" loading="lazy" decoding="async"></picture>
+      <picture><source type="image/webp" srcset="/images/experience/london-partners-3-480.webp"><img src="/images/experience/london-partners-3-480.jpg" width="480" height="360" alt="" loading="lazy" decoding="async"></picture>
+      <picture><source type="image/webp" srcset="/images/experience/goldenkeys-guizhou-480.webp"><img src="/images/experience/goldenkeys-guizhou-480.jpg" width="480" height="360" alt="" loading="lazy" decoding="async"></picture>
     </a>
     <p><a class="link" href="{{ eng_url }}">{{ h.beyond_link }}</a></p>
   </div>

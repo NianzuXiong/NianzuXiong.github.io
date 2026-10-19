@@ -4,6 +4,9 @@ events:
   - id: vince-cable
     images:
       - src: /images/experience/vince-cable-dialogue.jpg
+        base: /images/experience/vince-cable-dialogue
+        w: 960
+        h: 783
         alt_en: "Nianzu Xiong in dialogue with Sir Vince Cable at the Oxford China Forum"
         alt_zh: "熊念祖在牛津中国论坛与文斯·凯布尔爵士对话"
     title_en: "Dialogue with Sir Vince Cable"
@@ -21,12 +24,21 @@ events:
   - id: london-partners
     images:
       - src: /images/experience/london-partners-3.jpg
+        base: /images/experience/london-partners-3
+        w: 960
+        h: 442
         alt_en: "Moderating the roundtable on Chinese brands going global"
         alt_zh: "主持中国品牌出海圆桌讨论"
       - src: /images/experience/london-partners-1.jpg
+        base: /images/experience/london-partners-1
+        w: 960
+        h: 442
         alt_en: "Opening the forum on the London Partners programme"
         alt_zh: "在《伦敦合伙人》节目中致开幕辞"
       - src: /images/experience/london-partners-2.jpg
+        base: /images/experience/london-partners-2
+        w: 960
+        h: 442
         alt_en: "London Partners episode feature on the Oxford forum"
         alt_zh: "《伦敦合伙人》节目中的牛津论坛片段"
     title_en: "London Partners"
@@ -41,6 +53,9 @@ events:
   - id: ai-speech
     images:
       - src: /images/experience/ocf-summer-forum-2026.jpg
+        base: /images/experience/ocf-summer-forum-2026
+        w: 960
+        h: 1037
         alt_en: "Delivering the opening address at the Oxford China Forum 2026 Summer Forum"
         alt_zh: "在牛津中国论坛 2026 夏季论坛致开幕辞"
     title_en: "How Does AI Think?"
@@ -59,6 +74,9 @@ events:
   - id: goldenkeys
     images:
       - src: /images/experience/goldenkeys-guizhou.jpg
+        base: /images/experience/goldenkeys-guizhou
+        w: 960
+        h: 640
         alt_en: "Hosting the 2026 GoldenKeys Conference in Guizhou"
         alt_zh: "主持 2026 金钥匙可持续科学与产业大会"
     title_en: "2026 GoldenKeys Conference on Sustainable Sciences and Industries"
@@ -73,6 +91,9 @@ events:
   - id: cicc
     images:
       - src: /images/experience/cicc-london-forum.jpg
+        base: /images/experience/cicc-london-forum
+        w: 960
+        h: 639
         alt_en: "At the CICC 2026 London Wealth Management Forum"
         alt_zh: "中金公司 2026 伦敦财富管理大会"
     title_en: "CICC 2026 London Wealth Management Forum"
@@ -87,6 +108,9 @@ events:
   - id: harvard
     images:
       - src: /images/experience/harvard-ciic.jpg
+        base: /images/experience/harvard-ciic
+        w: 960
+        h: 667
         alt_en: "Hosting the Harvard China Innovation and Investment Summit in London"
         alt_zh: "主持哈佛中国创新与投资峰会伦敦站"
     title_en: "Harvard China Innovation and Investment Summit"

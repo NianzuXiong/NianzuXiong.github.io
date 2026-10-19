@@ -12,7 +12,10 @@
   <div class="event__media">
     {% for im in e.images %}{% assign alt = im[k_alt] %}
     <button type="button" class="shot reveal" data-full="{{ im.src }}" data-cap="{{ alt | escape }}" aria-label="{{ t.enlarge }}: {{ alt | escape }}">
-      <img src="{{ im.src }}" alt="{{ alt | escape }}" loading="lazy">
+      <picture>
+        <source type="image/webp" srcset="{{ im.base }}-960.webp">
+        <img src="{{ im.base }}-960.jpg" width="{{ im.w }}" height="{{ im.h }}" alt="{{ alt | escape }}" loading="lazy" decoding="async">
+      </picture>
     </button>
     {% endfor %}
   </div>
