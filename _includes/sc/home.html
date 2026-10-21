@@ -27,6 +27,24 @@
   </div>
 </section>
 
+<section class="block" aria-labelledby="papers">
+  <h2 class="block__title" id="papers">{{ h.papers_title }}</h2>
+  <div class="block__body">
+    {% for pp in h.papers %}
+    <article class="paper">
+      <h3 class="paper__title"><a href="{{ pp.pdf }}" target="_blank" rel="noopener">{{ pp.title }}</a></h3>
+      {% if pp.original != "" %}<p class="paper__original" lang="en">{{ pp.original }}</p>{% endif %}
+      <p class="paper__meta">{{ pp.meta }}</p>
+      <details class="paper__abstract">
+        <summary>{{ pp.abstract_label }}</summary>
+        <p>{{ pp.abstract }}</p>
+      </details>
+      <p class="paper__links"><a class="link" href="{{ pp.pdf }}" target="_blank" rel="noopener">{{ pp.pdf_label }}</a></p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
 <section class="block" aria-labelledby="education">
   <h2 class="block__title" id="education">{{ h.education_title }}</h2>
   <div class="block__body">
