@@ -342,3 +342,4 @@ a { color: inherit; }
 .paper__abstract p { margin: 0 0 1rem; font-size: 1rem; color: var(--text); }
 .paper__links { margin: 1rem 0 0; }
 html { scroll-padding-top: 5rem; }
+.paper + .paper { margin-top: 3rem; }
